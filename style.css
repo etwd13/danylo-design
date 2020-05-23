@@ -7,12 +7,18 @@
 body {
   background-color: #fdf0e6;
   font-family: Manrope, serif;
+  margin: 30%;
 }
 
 h1 {
   font-family: Manrope, serif;
-  font-size: 36;
+  font-size: 3em;
   line-height: 45px;
+}
+
+p {
+  font-family: Manrope, serif;
+  font-size: 1.3em;
 }
 
 /*# sourceMappingURL=style.css.map */
