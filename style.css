@@ -5,8 +5,14 @@
   font-style: normal;
 }
 body {
-  background-color: red;
+  background-color: #fdf0e6;
   font-family: Manrope, serif;
+}
+
+h1 {
+  font-family: Manrope, serif;
+  font-size: 36;
+  line-height: 45px;
 }
 
 /*# sourceMappingURL=style.css.map */
