@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "Manrope";
+  src: url("Manrope-Bald.woff2") format("woff2"), url("Manrope-Bald.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
 body {
   background-color: red;
+  font-family: Manrope, serif;
 }
 
 /*# sourceMappingURL=style.css.map */
